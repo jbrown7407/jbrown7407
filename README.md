@@ -24,8 +24,3 @@ Here are some ideas to get you started:
    
    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jbrown7407)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrown7407)](https://github.com/jbrown7407/github-readme-stats)
-
-Contact Me-
- <form class="hello" action="https://formsubmit.co/jbrown7407@gmail.com" method="POST">
-         Message: <br /><input type="text" name="name" required style="height: 100px"> <br />
-      Your Email: <br /><input type="email" name="email" required> <br />
