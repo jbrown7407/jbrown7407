@@ -23,6 +23,6 @@ Here are some ideas to get you started:
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
    <!--
    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jbrown7407)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrown7407)](https://github.com/jbrown7407/github-readme-stats)
 -->
-[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
+
