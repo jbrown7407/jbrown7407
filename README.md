@@ -25,3 +25,4 @@ Here are some ideas to get you started:
    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jbrown7407)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
+[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
