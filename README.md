@@ -22,5 +22,3 @@ Recent Tech Used: <br />
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-<-- Test -->
