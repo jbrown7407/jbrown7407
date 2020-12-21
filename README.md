@@ -1,4 +1,4 @@
-### Hello, I'm <a href="http://jeffrey-brown.netlify.app/" target="_blank" > Jeff Brown. </a> 👋 <br />
+### Hello, I'm <a href="http://jeffrey-brown.netlify.app/" target="_blank"> Jeff Brown. </a> 👋 <br />
 
 I am a remote React developer based in CT. I write software in Python and Javascript and I also like to make games using Dreams PS5.
 
@@ -8,9 +8,6 @@ I am a remote React developer based in CT. I write software in Python and Javasc
  <img class="tech" src="https://camo.githubusercontent.com/88a39f57239b84eb8b3dd21de52b6057d4891fad248d2b83a9c5ce306887410c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d4a617661536372697074266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765">    
 </p> 
   <br />
-<br />
-
-
 
 Recent Tech Used: <br />
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
