@@ -1,5 +1,5 @@
 ### Hello, I'm <a href="http://jeffrey-brown.netlify.app/" target="_blank"> Jeff Brown. </a> 👋 <br />
-Happy Holidays!
+
 
 I am a remote React developer based in CT. I write software in Python and Javascript and I also like to make games using Dreams PS5 and Unity.
 
